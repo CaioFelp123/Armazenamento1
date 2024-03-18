@@ -8,3 +8,8 @@ h1 {
     text-emphasis: none;
     font-size: larger;
 }
+h1 {
+    color: crimson;
+    text-overflow: clip;
+    font-size: medium;
+}
