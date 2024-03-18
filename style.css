@@ -3,3 +3,8 @@
     width: 500px;
     height: inherit;
 }
+h1 {
+    color: aliceblue;
+    text-emphasis: none;
+    font-size: larger;
+}
