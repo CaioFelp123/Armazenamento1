@@ -4,7 +4,7 @@
     height: inherit;
 }
 h1 {
-    color: aliceblue;
+    color: rgb(0, 136, 255);
     text-emphasis: none;
     font-size: larger;
 }
