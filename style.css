@@ -8,6 +8,9 @@ h1 {
     text-emphasis: none;
     font-size: 600;
 }
+body {
+background-color: aliceblue;
+}
 
 body {
     background-color: rgb(196, 0, 0);
